@@ -168,11 +168,9 @@ python main.py
 
 ```text
 .
-├── Rede MLP.py
+├── main.py
 ├── README.md
 └── images
-    ├── features.png
-    ├── sample.png
     ├── mlp_16_8.png
     ├── mlp_32_16_8.png
     └── mlp_128_64_32.png
