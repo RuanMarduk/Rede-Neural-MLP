@@ -37,14 +37,6 @@ O dataset contém informações como:
 * Tempo gasto em redes sociais antes de dormir
 * Indicador de saúde mental (*mental_health_score*)
 
-### Estrutura do Dataset
-
-![Estrutura do Dataset](images/features.png)
-
-### Exemplo de Registros
-
-![Exemplo de Registros](images/sample.png)
-
 ---
 
 ## Metodologia
@@ -74,10 +66,6 @@ A divisão dos dados foi realizada da seguinte forma:
 Por se tratar de um problema de regressão, a métrica *accuracy* não é adequada.
 
 Foi utilizado o **Erro Médio Absoluto (MAE)** como medida de desempenho:
-
-[
-MAE = \frac{1}{n}\sum |y_{real} - y_{predito}|
-]
 
 Quanto menor o valor do MAE, melhor a capacidade preditiva do modelo.
 
