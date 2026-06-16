@@ -179,7 +179,7 @@ python main.py
 ```text
 .
 ├── genz_social_media_usage_1M.csv
-├── main.py
+├── Rede MLP.py
 ├── README.md
 └── images
     ├── features.png
