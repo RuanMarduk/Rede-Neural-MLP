@@ -18,6 +18,8 @@ O conjunto de dados foi desenvolvido para possibilitar estudos relacionados a:
 * Segmentação de usuários com base em características comportamentais;
 * Comparação de padrões de comportamento entre diferentes regiões.
 
+https://www.kaggle.com/datasets/sharmajicoder/gen-z-social-media-usage-dataset?resource=download
+
 ### Atributos
 
 O dataset contém informações como:
@@ -178,7 +180,6 @@ python main.py
 
 ```text
 .
-├── genz_social_media_usage_1M.csv
 ├── Rede MLP.py
 ├── README.md
 └── images
